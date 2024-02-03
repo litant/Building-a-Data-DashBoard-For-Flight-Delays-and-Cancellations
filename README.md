@@ -9,3 +9,4 @@ Q2 What causes delays for each airline and state
 Q3 Are any of the delays related to a specific weekday? And are there
 any trends throughout the week?
 
+You will find all the details, explanations, designs and dashboard links in the provided pdf
